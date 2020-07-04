@@ -1,0 +1,4 @@
+fn main(){
+    let my_string = String::from("my name is Ayesha Zahid");
+    println!("{}".my_string.len());
+}
